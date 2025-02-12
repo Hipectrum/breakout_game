@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+*.idea
+*.idea/
+.idea
+.idea/
+idea
+idea/
+*.venv
+*.venv/
+.venv
+.venv/
+venv
+venv/
